@@ -12,3 +12,10 @@ eight
 nine
 11
 12
+------------------
+Learnt git successfully !! 
+-Merge Request
+-Push 
+-Pull 
+-Stashing: Resolve conflicts
+-Forking.
