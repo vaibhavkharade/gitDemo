@@ -6,3 +6,4 @@ Added fourth line !!!
 =======
 Added fifth line !!!
 >>>>>>> Stashed changes
+Added sixth line in browser !!
